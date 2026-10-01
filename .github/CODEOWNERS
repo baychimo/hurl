@@ -1,3 +1,0 @@
-# Protect ci 
-.github/CODEOWNERS @lepapareil @fabricereix @jcamiel
-.github/workflows/ @lepapareil
